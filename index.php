@@ -17,6 +17,6 @@
 
 require_once('DefaultManuscriptCapThemePlugin.inc.php');
 
-return new DefaultManuscriptcapThemePlugin();
+return new DefaultManuscriptCapThemePlugin();
 
 ?>
